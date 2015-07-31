@@ -1,0 +1,7 @@
+user_happy_flow:
+  login: user1acdc@avenuecode.com
+  password: acdcuser1
+
+user_unhappy_flow:
+  login: user1acdc@avenuecode.com
+  password: acdjjjik

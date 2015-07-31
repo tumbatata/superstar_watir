@@ -44,6 +44,5 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.10.4, ruby-2.0.0-p481) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v0.9.6, ruby-2.0.0-p481) [gem]" level="application" />
   </component>
 </module>

@@ -1,1 +1,1 @@
-default: --format html --out results/cucumber.html
+default: --format pretty --format html --out results/cucumber.html
